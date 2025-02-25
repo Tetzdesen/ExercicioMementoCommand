@@ -1,0 +1,2 @@
+# ExercicioMementoCommand
+Exercício 50.
